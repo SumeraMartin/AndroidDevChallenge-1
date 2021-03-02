@@ -1,0 +1,22 @@
+<resources>
+	<string name="app_name">PuppyShelter</string>
+
+	<string name="generic_error_title">Ups! Something unexpected happened</string>
+	<string name="generic_error_subtitle">We are working on the issue. Try again, please.</string>
+
+	<string name="connection_error_title">Internet connection is not available</string>
+	<string name="connection_error_subtitle">Connect and try again, please.</string>
+
+	<string name="breed__poodle">Poodle</string>
+	<string name="breed__golden_retriever">Golden Retriever</string>
+	<string name="breed__german_shepherd">German Shepherd</string>
+	<string name="breed__bulldog">Bulldog</string>
+	<string name="breed__beagle">Beagle</string>
+	<string name="breed__pug">Pug</string>
+	<string name="breed__dodge">Dodge</string>
+	<string name="breed__pointer">Pointer</string>
+
+	<string name="filter_title">Fitler</string>
+
+</resources>
+
